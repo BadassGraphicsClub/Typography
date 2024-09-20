@@ -1,0 +1,15 @@
+
+RW Halin Grafo is a modular font designed during during a type design initiation workshop given by Lucas Descroix and Benjamin Dumond (Bonjour Monde), in February 2023.Students were each asked to create a display typeface based on a Wikipedia article chosen at random. In order to get an interesting conceptual distance they first gathered words and images, then explored abstract rhythms by hand.
+
+RandomWiki is a typeface family created by the students of the Art Direction MA at LISAA, Paris. 
+
+Random article: https://en.wikipedia.org/wiki/Halin_graph
+The glyphs are designed using modular elements based on Halin graph structures. These modules incorporate the graph's core components: the vertice and the edge.
+
+Specimen: https://ateliers.bonjourmonde.net/randomwiki2/
+
+Bonjour Monde: https://bonjourmonde.net/en
+
+Designer: https://badassgraphics.club
+
+RW Halin Grafo is available under CC BY-ND 4.0 license and as is, without any warranty. Neither Bonjour Monde nor the students shall be held responsible for any issue resulting from downloading and/or using the RandomWiki font files.
